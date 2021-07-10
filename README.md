@@ -6,6 +6,8 @@
 
 ## 下载安装
 
+- 下载地址 <https://github.com/H-Polaris/fast-cache/releases/tag/v0.0.1>
+
 ## 快速开始
 
 简单接入的文档
@@ -15,7 +17,7 @@
 
 ## 交流 & 提问
 
-https://github.com/H-Polaris/fast-cache/issues
+<https://github.com/H-Polaris/fast-cache/issues>
 
 ## 关于作者
 
